@@ -1,0 +1,41 @@
+.sai{
+    
+    padding: 10px;
+    background-color:rgb(77, 77, 5);
+}
+.m{
+    position: absolute;
+    right: 30px;
+    padding-right: 20px;
+}
+.nan{
+    padding-left: 50px;
+    margin-top: 10px;
+    display: grid;
+    row-gap: 10px;
+}
+.naidu{
+    width: 400px;
+    border: dashed;
+    border-radius: 50px;
+    margin: 30px;
+    padding: 50px;
+    background-color:transparent;
+  position: absolute;
+  left: 500px;
+  display: grid;
+  row-gap: 20px;
+
+}
+.l{
+
+position: absolute;
+top: 750px;
+border: solid;
+width: 1510px;
+    margin-bottom: 10px;
+    padding: 30px;
+    background-color: black;
+
+}
+
